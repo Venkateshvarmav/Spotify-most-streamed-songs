@@ -11,7 +11,7 @@ This project is built using Power BI, Powerpoint, Chat GPT, Python, HTML, 3rd pa
 
 - Step 1 : With the help of chatgpt below python script was used to fetch cover images of the album and add the image URL in a new column [API credentials was replaced]
 
-  ```python
+```python
 import requests
 import pandas as pd
 import time
