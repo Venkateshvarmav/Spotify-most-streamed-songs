@@ -395,4 +395,4 @@ Deneb Unit graph - https://tinyurl.com/yrchdb7c
 
 ## Author - Venkatesh Varma V
 
-This project is part of my portfolio, showcasing my Power BI skills essential for Data Analyst roles.
+This project is part of my portfolio, showcasing my Power BI skills essential for Data Analyst and Power Bi Developer roles.
