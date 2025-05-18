@@ -59,7 +59,7 @@ df.to_excel("spotify_dataset_with_covers.xlsx", index=False)
 - Step 5 : It was observed that in none of the columns used for the dashboard had any errors or empty cells and hence the blanks were ignored
 - Step 6 : below DAX query was used to create a new column using the release year, release month and release Date
 
-``DAX
+```DAX
 date = DATE(Sheet1[released_year],Sheet1[released_month],Sheet1[released_day])
 ```
 - Step 7 : A Date table was created using beloe query and relationship was established between Date Table and Date column in sheet 1
