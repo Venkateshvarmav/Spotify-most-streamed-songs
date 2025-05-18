@@ -67,9 +67,7 @@ date = DATE(Sheet1[released_year],Sheet1[released_month],Sheet1[released_day])
 ```DAX
 date = CALENDAR(MIN(Sheet1[date]),MAX(Sheet1[date]))
 ```
-- 
-
-- Step 7 : Below DAX expressions were written for the KPI
+- Step 8 : Below DAX expressions were written for the KPI
 
 Average stream per year
 ```DAX
@@ -378,11 +376,11 @@ Deneb Unit graph - https://tinyurl.com/yrchdb7c
 }
 ```
 
-- Step 8 : Conditional formating was added for Deneb unit chart for the arc and outer radius based on the energy percentage value
-- Step 9 : Conditional formating was added to show if the album has the number of streams greater than or lesser than the average stream
-- Step 10 : New card visual was added to show the Track name, Artist, Release Name, number of artists, number of streams, Acousticness, Danceability, liveness, Speechness and Valence
-- Step 11 : Line graph is used to show the trend of number of releases each year
-- Step 12 : Slicer chart is used for Date, Artist, Track and year of release
+- Step 9 : Conditional formating was added for Deneb unit chart for the arc and outer radius based on the energy percentage value
+- Step 10 : Conditional formating was added to show if the album has the number of streams greater than or lesser than the average stream
+- Step 11 : New card visual was added to show the Track name, Artist, Release Name, number of artists, number of streams, Acousticness, Danceability, liveness, Speechness and Valence
+- Step 12 : Line graph is used to show the trend of number of releases each year
+- Step 13 : Slicer chart is used for Date, Artist, Track and year of release
   
 # Snapshot of Dashboard (Power BI Service)
 
